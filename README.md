@@ -5,7 +5,7 @@ A repository containing GitHub Action Workflows to manage OSPO operations in CMS
 ## About the Project
 This repository contains GitHub Action workflows to collect data and metrics on repositories in CMS-Enterprise:
 
-- archival-identifier.yml: A workflow to identify repositories that are candidates for archival based on various metrics
+- [archival-identifier.yml](./.github/workflows/archival-identifier.yml): A workflow to identify repositories that are candidates for archival based on various metrics
 - super-changelog.yml: A workflow to track development activity across the organization by posting weekly summaries in the form of issues
 
 ### Project Vision
@@ -71,7 +71,7 @@ These guidelines outline agency-wide expectations for semantic versioning, relea
 
 ## Local Development
 
-Org-wide GitHub Action workflows can be found in [.github](./github).
+This project is a repository containing GitHub Action workflows to run across all repositories in CMS-Enterprise. Workflows can be found in [.github/workflows](./.github/workflows).
 
 <!--- TODO - with example below:
 This project is a monorepo with several apps. Please see the [api](./api/README.md) and [frontend](./frontend/README.md) READMEs for information on spinning up those projects locally. Also see the project [documentation](./documentation) for more info.
