@@ -8,9 +8,9 @@ ospo is supported by a dedicated team of individuals fulfilling various roles to
 
 Roles to include, but not limited to: Project Owner, Technical Lead, Developers/Contributors, Community Manager, Security Team, Policy Advisor, Contracting Officer's Representative, Compliance Officer, Procurement Officer -->
 
-| Role   | Name    | Affiliation    |
+| Role | Name | Affiliation |
 | :----- | :------ | :------------- |
-| {role} | {names} | {affiliations} |
+| Repository Owner | [CMS Open Source Program Office](go.cms.gov/ospo) | Centers for Medicare & Medicaid Services |
 
 <!-- TODO: A CODEOWNERS.md file is available in .github to define individuals responsible for specific parts of the codebase. Provide a reference to this file if used:
 
