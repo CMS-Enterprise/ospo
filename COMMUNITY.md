@@ -1,6 +1,6 @@
 # COMMUNITY.md
 
-ospo is supported by a dedicated team of individuals fulfilling various roles to ensure its success, security, and alignment with government standards and agency goals.
+The CMS-Enterprise/ospo repository is supported by a dedicated team of individuals fulfilling various roles to ensure its success, security, and alignment with government standards and agency goals.
 
 ## Project Members
 
@@ -8,14 +8,14 @@ ospo is supported by a dedicated team of individuals fulfilling various roles to
 
 Roles to include, but not limited to: Project Owner, Technical Lead, Developers/Contributors, Community Manager, Security Team, Policy Advisor, Contracting Officer's Representative, Compliance Officer, Procurement Officer -->
 
-| Role | Name | Affiliation |
-| :----- | :------ | :------------- |
-| Repository Owner | [CMS Open Source Program Office](go.cms.gov/ospo) | Centers for Medicare & Medicaid Services |
-
-<!-- TODO: A CODEOWNERS.md file is available in .github to define individuals responsible for specific parts of the codebase. Provide a reference to this file if used:
+| Role              | Name              | Affiliation                                    |
+| :---------------- | :---------------- | :--------------------------------------------- |
+| Open Source Lead  | Remy DeCausemaker | OSPO, Digital Service at CMS                   |
+| Software Engineer | Natalia Luzuriaga | OSPO, Digital Service at CMS, US Digital Corps |
+| Software Engineer | Dinne Kopelevich  | OSPO, Digital Service at CMS, US Digital Corps |
+| Software Engineer | Sachin Panayil    | OSPO, Digital Service at CMS, US Digital Corps |
 
 See [CODEOWNERS.md](.github/CODEOWNERS.md) for a list of those responsible for the code and documentation in this repository.
--->
 
 <!--
 ## Roles & Responsibilities
