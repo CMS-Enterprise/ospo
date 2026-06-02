@@ -1,21 +1,24 @@
 # ospo
 
-A repository to manage OSPO operations in CMS-Enterprise
+A repository containing GitHub Action Workflows to manage OSPO operations in CMS-Enterprise
 
 ## About the Project
-<!-- TODO: Write an about statement for this project. -->
+This repository contains GitHub Action workflows to collect data and metrics on repositories in CMS-Enterprise:
+
+- archival-identifier.yml: A workflow to identify repositories that are candidates for archival based on various metrics
+- super-changelog.yml: A workflow to track development activity across the organization by posting weekly summaries in the form of issues
 
 ### Project Vision
-<!-- TODO: What is the vision for this project? -->
+To make federal open source stewardship effortless by providing automated workflows that give the OSPO visibility into repository health, activity, and compliance across the entire organization.
 
 ### Project Mission
-<!-- TODO: Write a mission statement for this project. -->
+To automate the collection, analysis, and reporting of repository health data across CMS-Enterprise, giving the OSPO the insights needed to enforce open source standards at scale.
 
 ### Agency Mission
-<!-- TODO: Must include since this is an agency-led project -->
+This project supports the agency's broader source code stewardship initiative, focused on bringing all repositories up to open source and repository hygiene standards.
 
 ### Team Mission
-<!-- TODO: Must include since this is an agency-led project -->
+Our team is committed to building tools that make open source development complemented with repository hygiene easier for federal development teams, focusing on automation and accuracy to reduce manual overhead.
 
 ## Core Team
 
@@ -68,15 +71,16 @@ These guidelines outline agency-wide expectations for semantic versioning, relea
 
 ## Local Development
 
+Org-wide GitHub Action workflows can be found in [.github](./github).
+
 <!--- TODO - with example below:
 This project is a monorepo with several apps. Please see the [api](./api/README.md) and [frontend](./frontend/README.md) READMEs for information on spinning up those projects locally. Also see the project [documentation](./documentation) for more info.
 -->
 
 ## Coding Style and Linters
-
+N/A
 <!-- TODO - Add the repo's linting and code style guidelines -->
 
-Each application has its own linting and testing guidelines. Lint and code tests are run on each commit, so linters and tests should be run locally before committing.
 
 <!--
 ## Branching Model
