@@ -1,12 +1,14 @@
 # Code Owners
 
-<!-- TODO: Who are the points of contact in your project who are responsible/accountable for the project? This can often be an engineering or design manager or leader, who may or may not be the primary maintainers of the project. List them by GitHub Username-->
-
-
-- 
+- @decause-gov
+- @natalialuzuriaga
+- @DinneK
+- @sachinpanayil
 
 
 ## Repo Domains
+
+archival-identifier.yml: @natalialuzuriaga
 
 <!--
 The Repo Domains section of your CODEOWNERS.md file helps manage code review responsibilities efficiently. Each domain represents a different aspect of the repository, such as documentation, frontend, backend, DevOps, testing, etc. In this section, list each domain and assign the appropriate GitHub usernames or teams responsible for that domain. This ensures that pull requests (PRs) are reviewed by the right experts, maintaining high code quality and relevance.

@@ -26,15 +26,18 @@ TODO: This section helps contributors understand any team structure in the proje
 
 ### Building dependencies
 
+N/A - this project has no dependencies. Optionally, the GitHub CLI can be used to run and test the workflows locally.
+
 <!--- TODO: This step is often skipped, so don't forget to include the steps needed to install on your platform. If you project can be multi-platform, this is an excellent place for first time contributors to send patches!-->
 
 ### Building the Project
+
+N/A
 
 <!--- TODO: Be sure to include build scripts and instructions, not just the source code itself! -->
 
 ### Workflow and Branching
 
-<!--- TODO: Workflow Example
 We follow the [GitHub Flow Workflow](https://guides.github.com/introduction/flow/)
 
 1.  Fork the project
@@ -45,7 +48,7 @@ We follow the [GitHub Flow Workflow](https://guides.github.com/introduction/flow
 6.  Work with repo maintainers to get your change reviewed
 7.  Wait for your change to be pulled into `CMS-Enterprise/ospo/main`
 8.  Delete your feature branch
--->
+
 
 <!--
 ### Testing Conventions
@@ -54,19 +57,9 @@ TODO: Discuss where tests can be found, how they are run, and what kind of tests
 -->
 
 ### Coding Style and Linters
-
-<!--- TODO: HIGHLY ENCOURAGED. Specific tools will vary between different languages/frameworks (e.g. Black for python, eslint for JavaScript, etc...)
-
-1. Mention any style guides you adhere to (e.g. pep8, etc...)
-2. Mention any linters your project uses (e.g. flake8, jslint, etc...)
-3. Mention any naming conventions your project uses (e.g. Semantic Versioning, CamelCasing, etc...)
-4. Mention any other content guidelines the project adheres to (e.g. plainlanguage.gov, etc...)
--->
+N/A
 
 ### Writing Issues
-
-<!---
-TODO: Example Issue Guides
 
 When creating an issue please try to adhere to the following format:
 
@@ -85,7 +78,7 @@ When creating an issue please try to adhere to the following format:
     List all relevant steps to reproduce the observed behavior.
 
     see our .github/ISSUE_TEMPLATE.md for more examples.
--->
+
 
 <!---
 ### Writing Pull Requests
@@ -156,6 +149,7 @@ authorship metadata will be preserved.
 
 ## Shipping Releases
 
+N/A
 <!-- TODO: What cadence does your project ship new releases? (e.g. one-time, ad-hoc, periodically, upon merge of new patches) Who does so? Below is a sample template you can use to provide this information.
 
 ospo will see regular updates and new releases. This section describes the general guidelines around how and when a new release is cut.
