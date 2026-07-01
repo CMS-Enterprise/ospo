@@ -1,0 +1,59 @@
+{
+  "name": "ospo",
+  "version": "",
+  "description": "A repository to manage OSPO operations in CMS-Enterprise",
+  "longDescription": "",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": ""
+      }
+    ],
+    "usageType": [],
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/CMS-Enterprise/ospo",
+  "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
+  "vcs": "git",
+  "laborHours": 2860,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [],
+  "categories": [],
+  "languages": [],
+  "contractNumber": [],
+  "SBOM": "https://github.com/CMS-Enterprise/ospo/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
+  "date": {
+    "created": "2026-04-09T21:30:22Z",
+    "lastModified": "2026-06-04T16:03:52Z",
+    "metadataLastUpdated": "2026-07-01T01:00:50.724Z"
+  },
+  "tags": [
+    "dsacms-tier2"
+  ],
+  "contact": {
+    "email": "",
+    "name": ""
+  },
+  "feedbackMechanism": "https://github.com/CMS-Enterprise/ospo/issues",
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "userInput": false,
+  "group": "",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [],
+  "userType": [],
+  "maturityModelTier": 0
+}
